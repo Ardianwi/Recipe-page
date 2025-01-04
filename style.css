@@ -48,7 +48,7 @@ article p{
 }
 
 .a-2{
-    margin-top: 32px;
+    margin-top: 0px;
     padding: 24px;
 }
 
@@ -59,7 +59,35 @@ article p{
     font-weight: 100;
 }
 
-ul li {
+.satu-ul li {
     padding-left: 10px;
+    margin-left: 24px;
+}
+
+.a-3{
+    margin-top: 0px;
+    padding: 24px;
+}
+
+.a-3 .title-a-2{
+    color: #7A284E;
+    gap: 16px;
+    font-family: "Young Serif", serif;
+    font-weight: 100;
+}
+.Instruction{
+    font-family: "Young Serif", serif;
+    font-weight: 100;
+    margin-top: 24px;
+   
+
+}
+.title-a-1{
+     color: #7A284E;
+}
+
+.satu-ol li{
+    font-family: "Young Serif", serif;
+    font-weight: 100;
     margin-left: 24px;
 }
