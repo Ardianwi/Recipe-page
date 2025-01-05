@@ -5,7 +5,7 @@
 
 body {
     max-width: 100%;
-    max-height: 1928px;
+    max-height: 2000px;
     background-color: #F3E5D7;
     display: flex;
     box-sizing: border-box;
@@ -15,7 +15,7 @@ body {
 
 .container{
     width: 736px;
-    height: 1700px;
+    height: 1800px;
     background-color: #FFFFFF;
     margin: auto;
     border-radius: 24px;
@@ -50,6 +50,8 @@ article p{
 .a-2{
     margin-top: 0px;
     padding: 24px;
+    background-color: #F3E5D7;
+    margin-top: 24px;
 }
 
 .a-2 .title-a-1{
@@ -57,6 +59,7 @@ article p{
     gap: 16px;
     font-family: "Young Serif", serif;
     font-weight: 100;
+   
 }
 
 .satu-ul li {
@@ -90,4 +93,25 @@ article p{
     font-family: "Young Serif", serif;
     font-weight: 100;
     margin-left: 24px;
+}
+
+footer p{
+    font-family: "Young Serif", serif;
+    font-weight: 100;
+}
+
+.a-3 p{
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+table{
+    width: 700px;
+    line-height: 2.5;
+    font-family: "Young Serif", serif;
+    font-weight: 100;
+}
+
+table td{
+    border-bottom: 1px solid #F3E5D7;
 }
